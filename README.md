@@ -7,5 +7,3 @@ A simple password gen written in the C programming language for Windows or Linux
 - Drag the executable into the CMD/Terminal, click back inside it, and hit ENTER.
 - The program will guide you with the rest.
 - Enjoy your newly generated password!
-
-NOTE: I have not tested on Windows yet. I will as soon as I can.
